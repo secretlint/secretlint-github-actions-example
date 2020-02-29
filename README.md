@@ -1,26 +1,11 @@
 # secretlint-github-actions-example
 
+Example of [Secretlint](https://github.com/secretlint/secretlint) + [GitHub Actions](https://github.co.jp/features/actions)
 
 
-## Install
+See Pull Request Results:
 
-Install with [npm](https://www.npmjs.com/):
-
-    npm install secretlint-github-actions-example
-
-## Usage
-
-- [ ] Write usage instructions
-
-## Changelog
-
-See [Releases page](https://github.com/azu/secretlint-github-actions-example/releases).
-
-## Running tests
-
-Install devDependencies and Run `npm test`:
-
-    npm test
+- <https://github.com/azu/secretlint-github-actions-example/pull/1>
 
 ## Contributing
 
