@@ -1,7 +1,6 @@
 # secretlint-github-actions-example
 
-Example of [Secretlint](https://github.com/secretlint/secretlint) + [GitHub Actions](https://github.co.jp/features/actions)
-
+An Example of [Secretlint](https://github.com/secretlint/secretlint) + [GitHub Actions](https://github.co.jp/features/actions)
 
 See Pull Request Results:
 
