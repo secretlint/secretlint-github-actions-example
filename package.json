@@ -1,7 +1,8 @@
 {
+  "private": true,
   "name": "secretlint-github-actions-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "example repo",
   "homepage": "https://github.com/azu/secretlint-github-actions-example",
   "bugs": {
     "url": "https://github.com/azu/secretlint-github-actions-example/issues"
@@ -12,16 +13,6 @@
   },
   "license": "MIT",
   "author": "azu",
-  "files": [
-    "bin/",
-    "lib/",
-    "src/"
-  ],
-  "main": "lib/secretlint-github-actions-example.js",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
   "scripts": {
     "test": "secretlint \"**/*\""
   },
