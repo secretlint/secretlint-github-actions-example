@@ -17,7 +17,7 @@
     "test": "secretlint \"**/*\""
   },
   "devDependencies": {
-    "@secretlint/secretlint-rule-preset-recommend": "^6.2.3",
+    "@secretlint/secretlint-rule-preset-recommend": "^7.0.8",
     "secretlint": "^7.0.8"
   }
 }
